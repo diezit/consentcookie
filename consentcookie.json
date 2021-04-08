@@ -1,0 +1,547 @@
+[
+    {
+        "id": "aco",
+        "name": "Act-On",
+        "company": "Act-On",
+        "description": {
+            "connection": "Marketing automation software",
+            "profile": "Marketing automation software"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/aco.png",
+        "infolink": {
+            "connection": "https://www.act-on.com/",
+            "profile": "https://www.act-on.com/"
+        }
+    },
+    {
+        "id": "acn",
+        "name": "ActiveCampaign",
+        "company": "ActiveCampaign",
+        "description": {
+            "connection": "Email marketing, Marketing automation, CRM",
+            "profile": "Email marketing, Marketing automation, CRM"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/acn.png",
+        "infolink": {
+            "connection": "https://www.activecampaign.com/",
+            "profile": "https://www.activecampaign.com/"
+        }
+    },
+    {
+        "id": "awr",
+        "name": "AdWords Remarketing",
+        "company": "Google",
+        "description": {
+            "connection": "Remarketing shows ads to people who've visited your website or used your mobile app. When people leave your website without buying anything, for example, remarketing helps you reconnect with them by showing relevant ads across their different devices.",
+            "profile": "Remarketing shows ads to people who've visited your website or used your mobile app. When people leave your website without buying anything, for example, remarketing helps you reconnect with them by showing relevant ads across their different devices."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/awr.png",
+        "infolink": {
+            "connection": "https://adwords.google.com/home/",
+            "profile": "https://adwords.google.com/home/"
+        }
+    },
+    {
+        "id": "awc",
+        "name": "AdWords conversion tracking",
+        "company": "Google",
+        "description": {
+            "connection": "With AdWords conversion tracking, you can see how effectively your ad clicks lead to valuable customer activity, such as website purchases, phone calls, app downloads, newsletter sign-ups, and more.",
+            "profile": "With AdWords conversion tracking, you can see how effectively your ad clicks lead to valuable customer activity, such as website purchases, phone calls, app downloads, newsletter sign-ups, and more."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/awc.png",
+        "infolink": {
+            "connection": "https://adwords.google.com/home/",
+            "profile": "https://adwords.google.com/home/"
+        }
+    },
+    {
+        "id": "adc",
+        "name": "Adcrowd",
+        "company": "Adcrowd",
+        "description": {
+            "connection": "Adcrowd makes display advertising, and retargeting in particular, accessible for every advertiser.",
+            "profile": "Adcrowd makes display advertising, and retargeting in particular, accessible for every advertiser."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/adc.png",
+        "infolink": {
+            "connection": "https://www.adcrowd.com/",
+            "profile": "https://www.adcrowd.com/"
+        }
+    },
+    {
+        "id": "cc",
+        "name": "ConsentCookie",
+        "company": "HumanSwitch",
+        "description": {
+            "connection": "ConsentCookie is een dienst voor het beheren en bewaken van uw privacy op deze website.",
+            "profile": "ConsentCookie is een dienst voor het beheren en bewaken van uw privacy op deze website."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/cc.png",
+        "infolink": {
+            "connection": "https://www.consentcookie.nl",
+            "profile": "https://www.consentcookie.nl"
+        }
+    },
+    {
+        "id": "dfax",
+        "name": "DoubleClick Ad Exchange",
+        "company": "Google",
+        "description": {
+            "connection": "DoubleClick Ad Exchange connects ad networks, agencies and third-party demand-side platforms with a vast global inventory in real time.",
+            "profile": "DoubleClick Ad Exchange connects ad networks, agencies and third-party demand-side platforms with a vast global inventory in real time."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/dfax.png",
+        "infolink": {
+            "connection": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/",
+            "profile": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/"
+        }
+    },
+    {
+        "id": "dfc",
+        "name": "DoubleClick Floodlight Counter",
+        "company": "Google",
+        "description": {
+            "connection": "The DoubleClick Floodlight Counter tag allows you to count the number of times that users have visited a particular page after seeing or clicking one of your ads.",
+            "profile": "The DoubleClick Floodlight Counter tag allows you to count the number of times that users have visited a particular page after seeing or clicking one of your ads."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/dfc.png",
+        "infolink": {
+            "connection": "https://www.doubleclickbygoogle.com/",
+            "profile": "https://www.doubleclickbygoogle.com/"
+        }
+    },
+    {
+        "id": "dfs",
+        "name": "DoubleClick Floodlight Sales",
+        "company": "Google",
+        "description": {
+            "connection": "The DoubleClick Floodlight Sales tag allows you to keep track of how many items users have purchased, as well as the total value of those purchases.",
+            "profile": "The DoubleClick Floodlight Sales tag allows you to keep track of how many items users have purchased, as well as the total value of those purchases."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/dfs.png",
+        "infolink": {
+            "connection": "https://www.doubleclickbygoogle.com",
+            "profile": "https://www.doubleclickbygoogle.com"
+        }
+    },
+    {
+        "id": "fbp",
+        "name": "Facebook Pixel",
+        "company": "Facebook",
+        "description": {
+            "connection": "The Facebook pixel is an analytics tool that allows you to measure the effectiveness of your advertising by understanding the actions people take on your website.",
+            "profile": "The Facebook pixel is an analytics tool that allows you to measure the effectiveness of your advertising by understanding the actions people take on your website."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/fbp.png",
+        "infolink": {
+            "connection": "https://www.facebook.com",
+            "profile": "https://www.facebook.com"
+        }
+    },
+    {
+        "id": "gas",
+        "name": "Google AdSense",
+        "company": "Google",
+        "description": {
+            "connection": "Use Google AdSense to make money online by placing ads on your website and YouTube channel. Start monetizing your website with Google AdSense today.",
+            "profile": "Use Google AdSense to make money online by placing ads on your website and YouTube channel. Start monetizing your website with Google AdSense today."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/gas.png",
+        "infolink": {
+            "connection": "https://www.google.com/adsense/start",
+            "profile": "https://www.google.com/adsense/start"
+        }
+    },
+    {
+        "id": "ga",
+        "name": "Google Analytics",
+        "company": "Google",
+        "description": {
+            "connection": "Google Analytics is een gratis website analytics service beschikbaar gesteld door Google. Google analytics volgt, analyseert en rapporteert het gebruikt van de website.",
+            "profile": "Google Analytics is een gratis website analytics service beschikbaar gesteld door Google. Google analytics volgt, analyseert en rapporteert het gebruikt van de website."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/ga.png",
+        "infolink": {
+            "connection": "https://analytics.google.com",
+            "profile": "https://analytics.google.com"
+        },
+        "dataProcessing": [
+            {
+                "id": "ga",
+                "dataIds": {
+                    "cookies": [
+                        "_ga",
+                        "__utma",
+                        "__utmb"
+                    ]
+                }
+            }
+        ],
+        "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/google-analytics/plugin.js"
+    },
+    {
+        "id": "gtm",
+        "name": "Google Tag Manager",
+        "company": "Google",
+        "description": {
+            "connection": "Google Tag Manager is een tag management service geschikbaar gesteld door Google. Google Tag Manager beheert Javascript en HTML tags die gebruikt worden voor tracking en analyses van websites.",
+            "profile": "Google Tag Manager is een tag management service geschikbaar gesteld door Google. Google Tag Manager beheert Javascript en HTML tags die gebruikt worden voor tracking en analyses van websites."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/gtm.png",
+        "infolink": {
+            "connection": "https://www.google.com/analytics/tag-manager/",
+            "profile": "https://www.google.com/analytics/tag-manager/"
+        }
+    },
+    {
+        "id": "htj",
+        "name": "Hotjar",
+        "company": "Hotjar",
+        "description": {
+            "connection": "Hotjar meet het gebruik van de website door bezoekers",
+            "profile": "Hotjar meet het gebruik van de website door bezoekers"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/htj.png",
+        "infolink": {
+            "connection": "https://www.hotjar.com",
+            "profile": "https://www.hotjar.com"
+        }
+    },
+    {
+        "id": "hbs",
+        "name": "Hubspot",
+        "company": "Hubspot",
+        "description": {
+            "connection": "Marketing automation software",
+            "profile": "Marketing automation software"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/hbs.png",
+        "infolink": {
+            "connection": "https://www.hubspot.com/",
+            "profile": "https://www.hubspot.com/"
+        }
+    },
+    {
+        "id": "iq",
+        "name": "IQNOMY",
+        "company": "HumanSwitch",
+        "description": {
+            "connection": "IQNOMY is een SaaS service van HumanSwitch gebruikt op deze website voor (anoniem) realtime profiling, website analytics en personalisatie",
+            "profile": "IQNOMY is een SaaS service van HumanSwitch gebruikt op deze website voor (anoniem) realtime profiling, website analytics en personalisatie"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/iq.png",
+        "infolink": {
+            "connection": "https://www.humanswitch.io",
+            "profile": "https://www.humanswitch.io"
+        },
+        "dataProcessing": [
+            {
+                "id": "iq",
+                "dataIds": {
+                    "cookies": [
+                        "_iqnomyfid",
+                        "_iqprid",
+                        "SRV"
+                    ]
+                }
+            }
+        ],
+        "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/iqnomy/plugin.js"
+    },
+    {
+        "id": "int",
+        "name": "Intercom",
+        "company": "Intercom",
+        "description": {
+            "connection": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
+            "profile": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/int.png",
+        "infolink": {
+            "connection": "https://www.intercom.com/",
+            "profile": "https://www.intercom.com/"
+        }
+    },
+    {
+        "id": "jetw",
+        "name": "Jetpack for Wordpress",
+        "company": "Automattic",
+        "description": {
+            "connection": "Jetpack, a toolkit for WordPress to help you design, secure, and grow your site in one bundle.",
+            "profile": "Jetpack, a toolkit for WordPress to help you design, secure, and grow your site in one bundle."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/jetw.png",
+        "infolink": {
+            "connection": "https://jetpack.com/",
+            "profile": "https://jetpack.com/"
+        }
+    },
+    {
+        "id": "leae",
+        "name": "LeadExpress",
+        "company": "LeadExpress",
+        "description": {
+            "connection": "Heb jij een B2B website maar weet jij niet wie je bezoekers zijn? LeadExpress is de specialist op het gebied van leadgeneratie software.",
+            "profile": "Heb jij een B2B website maar weet jij niet wie je bezoekers zijn? LeadExpress is de specialist op het gebied van leadgeneratie software."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/leae.png",
+        "infolink": {
+            "connection": "https://leadexpress.nl/",
+            "profile": "https://leadexpress.nl/"
+        }
+    },
+    {
+        "id": "ldw",
+        "name": "Leadworx",
+        "company": "Leadworx",
+        "description": {
+            "connection": "Advanced Website Analytics for B2Bs. Leadworx is a free B2B Web Analytics platform, which turns your website visitors to hot sales leads.",
+            "profile": "Advanced Website Analytics for B2Bs. Leadworx is a free B2B Web Analytics platform, which turns your website visitors to hot sales leads."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/ldw.png",
+        "infolink": {
+            "connection": "https://www.leadworx.com/",
+            "profile": "https://www.leadworx.com/"
+        }
+    },
+    {
+        "id": "lims",
+        "name": "LinkedIn Marketing Solutions",
+        "company": "LinkedIn",
+        "description": {
+            "connection": "LinkedIn marketing platform form lead generation, content marketing and brand awareness campaigns.",
+            "profile": "LinkedIn marketing platform form lead generation, content marketing and brand awareness campaigns."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/lims.png",
+        "infolink": {
+            "connection": "https://business.linkedin.com/marketing-solutions",
+            "profile": "https://business.linkedin.com/marketing-solutions"
+        }
+    },
+    {
+        "id": "livc",
+        "name": "LiveChat",
+        "company": "LiveChat",
+        "description": {
+            "connection": "We believe that every business with a website needs tools to communicate with its customers. LiveChat fills in for phone calls, which are time-consuming and for e-mails, which tend to be slow.",
+            "profile": "We believe that every business with a website needs tools to communicate with its customers. LiveChat fills in for phone calls, which are time-consuming and for e-mails, which tend to be slow."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/livc.png",
+        "infolink": {
+            "connection": "https://www.livechatinc.com/",
+            "profile": "https://www.livechatinc.com/"
+        }
+    },
+    {
+        "id": "loym",
+        "name": "LoyaltyLion Magento",
+        "company": "LoyaltyLion",
+        "description": {
+            "connection": "Reward customer activity and gain valuable insights for the Magento platform.",
+            "profile": "Reward customer activity and gain valuable insights for the Magento platform."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/loym.png",
+        "infolink": {
+            "connection": "https://loyaltylion.com/",
+            "profile": "https://loyaltylion.com/"
+        }
+    },
+    {
+        "id": "mc",
+        "name": "MailChimp",
+        "company": "MailChimp",
+        "description": {
+            "connection": "MailChimp is a marketing platform for small businesses. Send emails, connect your e-commerce store, advertise, and build your brand.",
+            "profile": "MailChimp is a marketing platform for small businesses. Send emails, connect your e-commerce store, advertise, and build your brand."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/mc.png",
+        "infolink": {
+            "connection": "https://mailchimp.com/",
+            "profile": "https://mailchimp.com/"
+        }
+    },
+    {
+        "id": "mkto",
+        "name": "Marketo",
+        "company": "Marketo",
+        "description": {
+            "connection": "Email marketing, Analytics, Marketing automation",
+            "profile": "Email marketing, Analytics, Marketing automation"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/mkto.png",
+        "infolink": {
+            "connection": "https://www.marketo.com/",
+            "profile": "https://www.marketo.com/"
+        }
+    },
+    {
+        "id": "mmt",
+        "name": "Matomo",
+        "company": "Matomo",
+        "description": {
+            "connection": "Matomo is the only analytics platform that gives you full control over your data.",
+            "profile": "Matomo is the only analytics platform that gives you full control over your data."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/mmt.png",
+        "infolink": {
+            "connection": "https://matomo.org/",
+            "profile": "https://matomo.org/"
+        }
+    },
+    {
+        "id": "mau",
+        "name": "Mautic",
+        "company": "Mautic",
+        "description": {
+            "connection": "Open source marketing automation software.",
+            "profile": "Open source marketing automation software."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/mau.png",
+        "infolink": {
+            "connection": "https://www.mautic.org/",
+            "profile": "https://www.mautic.org/"
+        }
+    },
+    {
+        "id": "r42",
+        "name": "Relay42",
+        "company": "Relay42",
+        "description": {
+            "connection": "Relay42 verzamelt gebruikersdata voor personalisatie op de website en in advertenties.",
+            "profile": "Relay42 verzamelt gebruikersdata voor personalisatie op de website en in advertenties."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/r42.png",
+        "infolink": {
+            "connection": "https://relay42.com",
+            "profile": "https://relay42.com"
+        }
+    },
+    {
+        "id": "shs",
+        "name": "SharpSpring",
+        "company": "SharpSpring",
+        "description": {
+            "connection": "Marketing Automation software",
+            "profile": "Marketing Automation software"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/shs.png",
+        "infolink": {
+            "connection": "https://sharpspring.com/",
+            "profile": "https://sharpspring.com/"
+        }
+    },
+    {
+        "id": "tilc",
+        "name": "Tidio Chat",
+        "company": "Tidio",
+        "description": {
+            "connection": "Live Chat solution. Talk with your customers in real time.",
+            "profile": "Live Chat solution. Talk with your customers in real time."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/tilc.png",
+        "infolink": {
+            "connection": "https://www.tidiochat.com/",
+            "profile": "https://www.tidiochat.com/"
+        }
+    },
+    {
+        "id": "tt",
+        "name": "TradeTracker",
+        "company": "TradeTracker UK",
+        "description": {
+            "connection": "Affiliate marketing platform for advertisers and publishers; easy to use online advertising software with an international network.",
+            "profile": "Affiliate marketing platform for advertisers and publishers; easy to use online advertising software with an international network."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/tt.png",
+        "infolink": {
+            "connection": "https://tradetracker.com/",
+            "profile": "https://tradetracker.com/"
+        }
+    },
+    {
+        "id": "wiq",
+        "name": "WiQhit",
+        "company": "WiQhit",
+        "description": {
+            "connection": "Personaliseer jouw website voor meer conversie! WiQhit is de #1 Plug & Play personalisatie tool voor alle e-commerce platformen.",
+            "profile": "Personaliseer jouw website voor meer conversie! WiQhit is de #1 Plug & Play personalisatie tool voor alle e-commerce platformen."
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/wiq.png",
+        "infolink": {
+            "connection": "https://wiqhit.com/",
+            "profile": "https://wiqhit.com/"
+        }
+    },
+    {
+        "id": "zop",
+        "name": "Zopim Chat",
+        "company": "Zendesk",
+        "description": {
+            "connection": "Zopim Chat heet tegenwoordige Zendesk Chat. ",
+            "profile": "Zopim Chat heet tegenwoordige Zendesk Chat. "
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/zop.png",
+        "infolink": {
+            "connection": "https://www.zopim.com/",
+            "profile": "https://www.zopim.com/"
+        }
+    },
+    {
+        "id": "tawk",
+        "name": "tawk.to",
+        "company": "tawk.to",
+        "description": {
+            "connection": "Message Your Customers in Real Time",
+            "profile": "Message Your Customers in Real Time"
+        },
+        "icon": "//cdn.humanswitch.services/cc/consentcookie/logo/tawk.png",
+        "infolink": {
+            "connection": "https://www.tawk.to/",
+            "profile": "https://www.tawk.to/"
+        }
+    },
+    {
+        "id": "msf",
+        "name": "Mouseflow",
+        "company": "Mouseflow",
+        "description": {
+            "connection": "Mouseflow is an analytics tool that tracks clicks/touches, mouse movement, scroll, keystroke, and other meta data.",
+            "profile": "Mouseflow is an analytics tool that tracks clicks/touches, mouse movement, scroll, keystroke, and other meta data."
+        },
+        "icon": "//static.diezit.nl/consentcookie/logo/mouseflow.png",
+        "infolink": {
+            "connection": "https://mouseflow.com/",
+            "profile": "https://mouseflow.com/"
+        }
+    },
+    {
+        "id": "frsh",
+        "name": "FreshChat",
+        "company": "FreshWorks",
+        "description": {
+            "connection": "Live chat software",
+            "profile": "Live chat software"
+        },
+        "icon": "//static.diezit.nl/consentcookie/logo/freshchat.png",
+        "infolink": {
+            "connection": "https://www.freshworks.com/live-chat-software/",
+            "profile": "https://www.freshworks.com/live-chat-software/"
+        }
+    },
+    {
+        "id": "leai",
+        "name": "Leadinfo",
+        "company": "Leadinfo",
+        "description": {
+            "connection": "Identify B2B website visitors",
+            "profile": "Identify B2B website visitors"
+        },
+        "icon": "//static.diezit.nl/consentcookie/logo/leadinfo.png",
+        "infolink": {
+            "connection": "https://www.leadinfo.com/",
+            "profile": "https://www.leadinfo.com/"
+        }
+    }
+]
+

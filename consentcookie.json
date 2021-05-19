@@ -242,6 +242,22 @@
       "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/iqnomy/plugin.js"
    },
    {
+      "id": "li",
+      "name": "Leadinfo",
+      "description": {
+         "connection": "Leadinfo is the lead generation software that recognizes the companies that come to your website.",
+         "profile": "Lead generation software."
+      },
+      "icon": "https://static.diezit.nl/consentcookie/logo/leadinfo.png",
+      "properties": [],
+      "fixed": false,
+      "infolink": {
+         "connection": "https://www.leadinfo.com/",
+         "profile": "https://www.leadinfo.com/en/about/"
+      },
+      "company": "Leadinfo"
+   },
+   {
       "id": "mau",
       "name": "Mautic",
       "description": {

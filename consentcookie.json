@@ -10,6 +10,7 @@
          "connection": "https://www.activecampaign.com/",
          "profile": "https://www.activecampaign.com/"
       },
+      "urlSite": "https://www.activecampaign.com/",
       "company": "ActiveCampaign"
    },
    {
@@ -23,6 +24,7 @@
          "connection": "https://www.act-on.com/",
          "profile": "https://www.act-on.com/"
       },
+      "urlSite": "https://www.act-on.com/",
       "company": "Act-On"
    },
    {
@@ -36,6 +38,7 @@
          "connection": "https://adwords.google.com/home/",
          "profile": "https://adwords.google.com/home/"
       },
+      "urlSite": "https://adwords.google.com/home/",
       "company": "Google"
    },
    {
@@ -49,6 +52,7 @@
          "connection": "https://adwords.google.com/home/",
          "profile": "https://adwords.google.com/home/"
       },
+      "urlSite": "https://adwords.google.com/home/",
       "company": "Google"
    },
    {
@@ -62,6 +66,7 @@
          "connection": "https://www.consentcookie.nl",
          "profile": "https://www.consentcookie.nl"
       },
+      "urlSite": "https://www.consentcookie.nl",
       "company": "HumanSwitch"
    },
    {
@@ -75,6 +80,7 @@
          "connection": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/",
          "profile": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/"
       },
+      "urlSite": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/",
       "company": "Google"
    },
    {
@@ -88,6 +94,7 @@
          "connection": "https://www.doubleclickbygoogle.com/",
          "profile": "https://www.doubleclickbygoogle.com/"
       },
+      "urlSite": "https://www.doubleclickbygoogle.com/",
       "company": "Google"
    },
    {
@@ -101,6 +108,7 @@
          "connection": "https://www.doubleclickbygoogle.com",
          "profile": "https://www.doubleclickbygoogle.com"
       },
+      "urlSite": "https://www.doubleclickbygoogle.com",
       "company": "Google"
    },
    {
@@ -114,6 +122,7 @@
          "connection": "https://www.facebook.com",
          "profile": "https://www.facebook.com"
       },
+      "urlSite": "https://www.facebook.com",
       "company": "Facebook"
    },
    {
@@ -127,6 +136,7 @@
          "connection": "https://analytics.google.com",
          "profile": "https://analytics.google.com"
       },
+      "urlSite": "https://analytics.google.com",
       "company": "Google",
       "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/google-analytics/plugin.js"
    },
@@ -141,6 +151,7 @@
          "connection": "https://www.google.com/adsense/start",
          "profile": "https://www.google.com/adsense/start"
       },
+      "urlSite": "https://www.google.com/adsense/start",
       "company": "Google"
    },
    {
@@ -154,6 +165,7 @@
          "connection": "https://www.google.com/analytics/tag-manager/",
          "profile": "https://www.google.com/analytics/tag-manager/"
       },
+      "urlSite": "https://www.google.com/analytics/tag-manager/",
       "company": "Google"
    },
    {
@@ -167,6 +179,7 @@
          "connection": "https://www.hubspot.com/",
          "profile": "https://www.hubspot.com/"
       },
+      "urlSite": "https://www.hubspot.com/",
       "company": "Hubspot"
    },
    {
@@ -180,6 +193,7 @@
          "connection": "https://www.hotjar.com",
          "profile": "https://www.hotjar.com"
       },
+      "urlSite": "https://www.hotjar.com",
       "company": "Hotjar"
    },
    {
@@ -193,6 +207,7 @@
          "connection": "https://www.humanswitch.io",
          "profile": "https://www.humanswitch.io"
       },
+      "urlSite": "https://www.humanswitch.io",
       "company": "HumanSwitch",
       "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/iqnomy/plugin.js"
    },
@@ -207,6 +222,7 @@
          "connection": "https://www.leadinfo.com/",
          "profile": "https://www.leadinfo.com/en/about/"
       },
+      "urlSite": "https://www.leadinfo.com/",
       "company": "Leadinfo"
    },
    {
@@ -220,6 +236,7 @@
          "connection": "https://www.mautic.org/",
          "profile": "https://www.mautic.org/"
       },
+      "urlSite": "https://www.mautic.org/",
       "company": "Mautic"
    },
    {
@@ -233,6 +250,7 @@
          "connection": "https://www.marketo.com/",
          "profile": "https://www.marketo.com/"
       },
+      "urlSite": "https://www.marketo.com/",
       "company": "Marketo"
    },
    {
@@ -246,6 +264,7 @@
          "connection": "https://matomo.org/",
          "profile": "https://matomo.org/"
       },
+      "urlSite": "https://matomo.org/",
       "company": "Mamoto"
    },
    {
@@ -259,6 +278,7 @@
          "connection": "https://mouseflow.com/",
          "profile": "https://mouseflow.com/privacy-overview/"
       },
+      "urlSite": "https://mouseflow.com/",
       "company": "Mouseflow"
    },
    {
@@ -272,6 +292,7 @@
          "connection": "https://relay42.com",
          "profile": "https://relay42.com"
       },
+      "urlSite": "https://relay42.com",
       "company": "Relay42"
    },
    {
@@ -285,6 +306,7 @@
          "connection": "https://sharpspring.com/",
          "profile": "https://sharpspring.com/"
       },
+      "urlSite": "https://sharpspring.com/",
       "company": "SharpSpring"
    },
    {
@@ -298,6 +320,7 @@
          "connection": "https://www.tawk.to/",
          "profile": "https://www.tawk.to/"
       },
+      "urlSite": "https://www.tawk.to/",
       "company": "tawk.to"
    },
    {
@@ -311,6 +334,7 @@
          "connection": "https://tradetracker.com/",
          "profile": "https://tradetracker.com/"
       },
+      "urlSite": "https://tradetracker.com/",
       "company": "TradeTracker UK"
    },
    {
@@ -324,6 +348,7 @@
          "connection": "https://www.zopim.com/",
          "profile": "https://www.zopim.com/"
       },
+      "urlSite": "https://www.zopim.com/",
       "company": "Zendesk"
    }
 ]

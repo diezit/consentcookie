@@ -306,6 +306,19 @@
       "company": "Mamoto"
    },
    {
+      "id": "mousef",
+      "name": "Mouseflow",
+      "description": "Mouseflow lets you replay the full visitor experience.",
+      "icon": "https://static.diezit.nl/consentcookie/logo/mouseflow.png",
+      "properties": [],
+      "fixed": false,
+      "infolink": {
+         "connection": "https://mouseflow.com/",
+         "profile": "https://mouseflow.com/privacy-overview/"
+      },
+      "company": "Mouseflow"
+   },
+   {
       "id": "r42",
       "name": "Relay42",
       "description": {

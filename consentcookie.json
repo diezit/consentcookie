@@ -212,6 +212,20 @@
       "plugin": "https://cdn.humanswitch.services/cc/consentcookie/plugins/iqnomy/plugin.js"
    },
    {
+      "id": "lib",
+      "name": "LeadBoxer",
+      "description": "LeadBoxer is a Lead & Customer Data Platform solution. The LeadBoxer software platform is designed to analyze enormous amounts of Big Data derived from multiple online traffic sources.",
+      "icon": "https://images.g2crowd.com/uploads/product/hd_favicon/1529316797/leadboxer.svg",
+      "properties": [],
+      "fixed": false,
+      "infolink": {
+         "connection": "https://www.leadboxer.com/",
+         "profile": "https://www.leadboxer.com/about"
+      },
+      "urlSite": "https://www.leadboxer.com/",
+      "company": "LeadBoxer B.V."
+   },
+   {
       "id": "li",
       "name": "Leadinfo",
       "description": "Leadinfo is the lead generation software that recognizes the companies that come to your website.",
